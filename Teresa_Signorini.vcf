@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Signorini;Teresa;;;
+FN:Teresa Signorini
+ORG:Soil Test Srl
+TITLE:Geologa
+TEL;TYPE=CELL:+393356218518
+EMAIL;TYPE=WORK:teresa.signorini@soiltest.it
+ADR;TYPE=WORK:;;Via Achille Grandi 39;Arezzo;;52100;Italia
+URL:https://www.soiltest.it
+END:VCARD
